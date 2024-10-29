@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#DB4437</color>
+    <color name="colorPrimaryDark">#B93221</color>
+    <color name="colorAccent">#DB4437</color>
+    <color name="white">#FFFFFF</color>
+    <color name="searchBarBackground">#EEEEEE</color>
+</resources>
